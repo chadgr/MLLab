@@ -26,7 +26,7 @@ This exercise has 9 tasks:
 
 1. Before you begin creating a machine learning experiment, there are three datasets you need to load.
 2. Download the three CSV sample datasets from here: http://aka.ms/awtdata and save AdventureWorksTravelDatasets.zip to your Desktop.
-   - **Note:** You will need to unblock the zip file before extracting its files. Do this by right clicking on it, selecting **Properties**, and then unblocking the file in the resulting dialog.
+R   - **Note:** You will need to unblock the zip file before extracting its files. Do this by right clicking on it, selecting **Properties**, and then unblocking the file in the resulting dialog.
 3. Extract the ZIP and verify you have the following files:
    - FlightDelaysWithAirportCodes.csv
    - FlightWeatherWithAirportCode.csv
@@ -36,7 +36,7 @@ This exercise has 9 tasks:
 
 4. Click **+ NEW** at the bottom, point to **Dataset** , and select **From Local File**.
 
-    ![Screenshot](images/upload_the_sample_datasets_0.png)
+   ![Screenshot](images/upload_the_sample_datasets_0.png)
 
 5. In the dialog that appears, click **Choose File** and browse to the **FlightWeatherWithAirportCodes.csv** file and click **OK**.
 6. Change the name of the dataset to **FlightWeatherWithAirportCodes**.
@@ -58,14 +58,14 @@ This exercise has 9 tasks:
     ![Screenshot](images/start_a_new_experiment_1.png)
 
 4. In the search box above your tool box on the right type "Import data".  This should find the import data tool.
-    ![Screenshot](images/import.png)
+    ![Screenshot](images/Import.png)
 
 5. Drag and drop that on the main canvas.  Set the properties as shown.  The Public Blob URL is: https://intelligenceworkshop.blob.core.windows.net/workshopfiles/FlightDelaysWithAirportCodes.csv 
 
     ![Screenshot](images/importparams.png)
   
 6. Press the run button on the bottom of the screen.  This will connnect to the blob store and import the data.
-    ![Screenshot](images/run.png)
+    ![Screenshot](images/Run.png)
 
 6. Next, you will explore each of the datasets to understand what kind of cleanup (aka data munging) will be necessary.
 7. Hover over the output port of the **FlightDelaysWithAirportCodes** dataset.
