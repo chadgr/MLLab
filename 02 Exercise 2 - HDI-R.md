@@ -8,6 +8,7 @@ In the Data Science VM, execute the following steps to prepare for the lab
 Screenshots below
 
 ![Screenshot](images/Putty1.png)
+
 ![Screenshot](images/Putt2.png)
 
 5.	From your DSVM download and install latest MS R Client (3.3.3) from here. If you need to learn more, details are in this page.
