@@ -4,13 +4,10 @@ Duration: 20 mins
 
 Synopsis: In this exercise, attendees will construct a report in Power BI Desktop Client that uses the map visualization to illustrate the predicted delays, using the data originally scored using Machine Learning, but summarized in a table using Spark on HDInsight.
 
-This exercise has 4 tasks:
+* [Task 1: Connect to the HDInsight Spark Using Power BI Desktop](#task-2-connect-to-the-hdinsight-spark-using-power-bi-desktop)
+* [Task 2: Create Power BI Report](#task-3-create-power-bi-report)
 
-* [Task 1: Connect to the Lab VM](#task-1-connect-to-the-lab-vm)
-* [Task 2: Connect to the HDInsight Spark Using Power BI Desktop](#task-2-connect-to-the-hdinsight-spark-using-power-bi-desktop)
-* [Task 3: Create Power BI Report](#task-3-create-power-bi-report)
-
-## Task 2: Connect to the HDInsight Spark Using Power BI Desktop
+## Task 1: Connect to the HDInsight Spark Using Power BI Desktop
 
 1. Launch Power BI Desktop using the shortcut on the Desktop of the Lab VM.
 2. Click on **Get Data** from the left side of the welcome window.
@@ -34,7 +31,7 @@ This exercise has 4 tasks:
 
 2. Click on the **Load** button from the bottom right corner of the window. It will take couple of minutes to load the data into the Power BI Desktop client.
 
-## Task 3: Create Power BI Report
+## Task 2: Create Power BI Report
 
 1. Once the data load is completed, you will find the **flightdelaysummary** to the right side of the screen under the **Fields** area.
 
