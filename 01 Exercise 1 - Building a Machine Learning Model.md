@@ -32,7 +32,7 @@ R   - **Note:** You will need to unblock the zip file before extracting its file
    - FlightWeatherWithAirportCode.csv
    - AirportCodeLocationClean.csv
    
-** Note that we will only be uploading two of the three files in the zip files.  Once extracted the FlightDelaysWithAirportCodes.csv is NOT uploaded.  We will show how to connect directly in another step**
+!** Note that we will only be uploading two of the three files in the zip files.  Once extracted the FlightDelaysWithAirportCodes.csv is NOT uploaded.  We will show how to connect directly in another step**
 
 4. Click **+ NEW** at the bottom, point to **Dataset** , and select **From Local File**.
 
@@ -41,8 +41,6 @@ R   - **Note:** You will need to unblock the zip file before extracting its file
 5. In the dialog that appears, click **Choose File** and browse to the **FlightWeatherWithAirportCodes.csv** file and click **OK**.
 6. Change the name of the dataset to **FlightWeatherWithAirportCodes**.
 7. Click on the check mark on the bottom right corner of the screen.
-
-    ![Screenshot](images/upload_the_sample_datasets_1.png)
 
 8. Repeat the previous step for the **AirportCodeLocationLookupClean.csv** setting the name for the dataset in a similar fashion.
 
