@@ -31,17 +31,20 @@ This exercise has 9 tasks:
    - FlightDelaysWithAirportCodes.csv
    - FlightWeatherWithAirportCode.csv
    - AirportCodeLocationClean.csv
+   
+** Note that we will only be uploading two of the three files in the zip files.  Once extracted the FlightDelaysWithAirportCodes.csv is NOT uploaded.  We will show how to connect directly in another step**
+
 4. Click **+ NEW** at the bottom, point to **Dataset** , and select **From Local File**.
 
     ![Screenshot](images/upload_the_sample_datasets_0.png)
 
-5. In the dialog that appears, click **Choose File** and browse to the **FlightDelaysWithAirportCodes.csv** file and click **OK**.
-6. Change the name of the dataset to **FlightDelaysWithAirportCodes**.
+5. In the dialog that appears, click **Choose File** and browse to the **FlightWeatherWithAirportCodes.csv** file and click **OK**.
+6. Change the name of the dataset to **FlightWeatherWithAirportCodes**.
 7. Click on the check mark on the bottom right corner of the screen.
 
     ![Screenshot](images/upload_the_sample_datasets_1.png)
 
-8. Repeat the previous step for the **FlightWeatherWithAirportCode.csv** and **AirportCodeLocationLookupClean.csv** setting the name for the dataset in a similar fashion.
+8. Repeat the previous step for the **AirportCodeLocationLookupClean.csv** setting the name for the dataset in a similar fashion.
 
 ## Task 4: Start a New Experiment
 
@@ -54,13 +57,15 @@ This exercise has 9 tasks:
 
     ![Screenshot](images/start_a_new_experiment_1.png)
 
-4. In the toolbar on the left, in the Search experiment items box, type the name of the dataset you created with flight delay data (FlightDelaysWithAirportCodes). You should see a component for it listed under **Saved Datasets** -> **My Datasets**.
+4. In the search box above your tool box on the right type "Import data".  This should find the import data tool.
+    ![Screenshot](images/import.png)
 
-    ![Screenshot](images/start_a_new_experiment_2.png)
+5. Drag and drop that on the main canvas.  Set the properties as shown.  The Public Blob URL is: https://intelligenceworkshop.blob.core.windows.net/workshopfiles/FlightDelaysWithAirportCodes.csv 
 
-5. Click and drag on the **FlightDelaysWithAirportCodes** to add it to the design surface.
-
-    ![Screenshot](images/start_a_new_experiment_3.png)
+    ![Screenshot](images/importparams.png)
+  
+6. Press the run button on the bottom of the screen.  This will connnect to the blob store and import the data.
+    ![Screenshot](images/run.png)
 
 6. Next, you will explore each of the datasets to understand what kind of cleanup (aka data munging) will be necessary.
 7. Hover over the output port of the **FlightDelaysWithAirportCodes** dataset.
@@ -119,6 +124,13 @@ This exercise has 9 tasks:
 
 ## Task 5: Prepare the Weather Data
 
+4. In the toolbar on the left, in the Search experiment items box, type the name of the dataset you created with flight delay data (FlightDelaysWithAirportCodes). You should see a component for it listed under **Saved Datasets** -> **My Datasets**.
+
+    ![Screenshot](images/start_a_new_experiment_2.png)
+
+5. Click and drag on the **FlightDelaysWithAirportCodes** to add it to the design surface.
+
+    ![Screenshot](images/start_a_new_experiment_3.png)
 1. To the right of the **FlightDelaysWithAirportCodes** dataset, add the **FlightWeatherWithAirportCode** dataset.
 
     ![Screenshot](images/prepare_the_weather_data_0.png)
