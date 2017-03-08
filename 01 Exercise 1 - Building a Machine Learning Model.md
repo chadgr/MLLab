@@ -59,10 +59,12 @@ R   - **Note:** You will need to unblock the zip file before extracting its file
     ![Screenshot](images/Import.png)
 
 5. Drag and drop that on the main canvas.  Set the properties as shown.  The Public Blob URL is: 
-```https://intelligenceworkshop.blob.core.windows.net/workshopfiles/FlightDelaysWithAirportCodes.csv ```
+`
+https://intelligenceworkshop.blob.core.windows.net/workshopfiles/FlightDelaysWithAirportCodes.csv 
+`
 
     ![Screenshot](images/importparams.png)
-  
+ 
 6. Press the run button on the bottom of the screen.  This will connnect to the blob store and import the data.
     ![Screenshot](images/Run.png)
 
