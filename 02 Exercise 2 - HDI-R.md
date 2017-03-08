@@ -9,7 +9,7 @@ Screenshots below
 
 ![Screenshot](images/Putty1.png)
 
-![Screenshot](images/Putt2.png)
+![Screenshot](images/Putty2.png)
 
 5.	From your DSVM download and install latest MS R Client (3.3.3) from here. If you need to learn more, details are in this page.
 6.	Open Visual Studio (VS) and sign-in to your account (could be trial account)
