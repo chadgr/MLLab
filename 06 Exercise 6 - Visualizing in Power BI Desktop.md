@@ -1,4 +1,4 @@
-# Exercise 6: Visualizing in Power BI Desktop
+# Exercise 3: Visualizing in Power BI Desktop
 
 Duration: 20 mins
 
@@ -9,25 +9,6 @@ This exercise has 4 tasks:
 * [Task 1: Connect to the Lab VM](#task-1-connect-to-the-lab-vm)
 * [Task 2: Connect to the HDInsight Spark Using Power BI Desktop](#task-2-connect-to-the-hdinsight-spark-using-power-bi-desktop)
 * [Task 3: Create Power BI Report](#task-3-create-power-bi-report)
-
-## Task 1: Connect to the Lab VM
-
-1. **NOTE:** If you are already connected to your Lab VM, skip to [Task 2](#task-2-connect-to-the-hdinsight-spark-using-power-bi-desktop).
-1. From the left side of the Azure portal, click on **All resources**.
-2. In the **Filter items...** box, type in **lab**.
-3. Select your lab VM. Keep in mind the name of the virtual machine will begin with the "app name" you provided when setting up this workshop environment (in the prerequisite deployment).
-2. At the top of the blade for your VM, click on **Connect**.
-
-    ![Screenshot](images/connect_to_the_lab_vm_1.png)
-
-3. Download and open the RDP file.
-1. When the **Remote Desktop Connection** screen appears, check the **Don't ask me again...** box and click on **Connect** button.
-
-    ![Screenshot](images/ex02_connect_to_the_lab_vm_2.png)
-
-1. Log in with the following credentials:
-   - User name: **cortana**
-   - Password: **Password.1!!**
 
 ## Task 2: Connect to the HDInsight Spark Using Power BI Desktop
 
