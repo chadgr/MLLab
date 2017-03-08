@@ -1,6 +1,6 @@
 In the Data Science VM, execute the following steps to prepare for the lab
 
-1.	Download Putty 64bit MSI from their download page
+1.	Download Putty [64bit MSI](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.68-installer.msi) from their download page
 2.	Install Putty in the default folder and follow steps to complete installation
 3.	Copy the SSH-Keys.zip file in your DSVM Desktop and unzip it there.
 4.	From Putty test connection to the HDInsight Edge Node, using ssh keys from above. 
