@@ -106,4 +106,4 @@ Synopsis: In this exercise, attendees will construct a report in Power BI Deskto
 
 1. You can save this Power BI report by click on Save icon from the top left corner of the screen.
 
-Next Exercise: [Exercise 7 - Deploy Intelligent Web App](07 Exercise 7 - Deploy Intelligent Web App.md)
+
