@@ -26,13 +26,15 @@ This exercise has 9 tasks:
 
 1. Before you begin creating a machine learning experiment, there are three datasets you need to load.
 2. Download the three CSV sample datasets from here: http://aka.ms/awtdata and save AdventureWorksTravelDatasets.zip to your Desktop.
-R   - **Note:** You will need to unblock the zip file before extracting its files. Do this by right clicking on it, selecting **Properties**, and then unblocking the file in the resulting dialog.
+
+- **Note:** You will need to unblock the zip file before extracting its files. Do this by right clicking on it, selecting **Properties**, and then unblocking the file in the resulting dialog.
+
 3. Extract the ZIP and verify you have the following files:
    - FlightDelaysWithAirportCodes.csv
    - FlightWeatherWithAirportCode.csv
    - AirportCodeLocationClean.csv
    
-!** Note that we will only be uploading two of the three files in the zip files.  Once extracted the FlightDelaysWithAirportCodes.csv is NOT uploaded.  We will show how to connect directly in another step**
+** Note** that we will only be uploading two of the three files in the zip files.  Once extracted the FlightDelaysWithAirportCodes.csv is NOT uploaded.  We will show how to connect directly in another step**
 
 4. Click **+ NEW** at the bottom, point to **Dataset** , and select **From Local File**.
 
