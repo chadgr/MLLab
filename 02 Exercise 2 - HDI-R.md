@@ -17,7 +17,7 @@ Screenshots below
 8.	Copy the R-HDInsight-LocalDirectory.zip file in your DSVM Desktop and unzip it there.
 9.	In VS, run the R code from labScript.R
 
-`
+```
 ###############################################################################
 # Create Linear Model and Plot 
 # Number of flights by Day of Week & 
@@ -137,4 +137,4 @@ remoteSourceDataDir <- file.path(myHdfsShareDirName, airOnTimeDataFolderName)
 localAirlineDelayLinearModel <- airlineDelayLinearModel(hdfsFS, remoteSourceDataDir)
 localAirlineDelayLogisticModel <- airlineDelayLogisticModel(hdfsFS, remoteSourceDataDir)
 
-`
+```
