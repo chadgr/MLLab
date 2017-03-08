@@ -58,7 +58,8 @@ R   - **Note:** You will need to unblock the zip file before extracting its file
 4. In the search box above your tool box on the right type "Import data".  This should find the import data tool.
     ![Screenshot](images/Import.png)
 
-5. Drag and drop that on the main canvas.  Set the properties as shown.  The Public Blob URL is: 'https://intelligenceworkshop.blob.core.windows.net/workshopfiles/FlightDelaysWithAirportCodes.csv'  
+5. Drag and drop that on the main canvas.  Set the properties as shown.  The Public Blob URL is: 
+```https://intelligenceworkshop.blob.core.windows.net/workshopfiles/FlightDelaysWithAirportCodes.csv ```
 
     ![Screenshot](images/importparams.png)
   
