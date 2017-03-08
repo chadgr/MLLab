@@ -34,7 +34,7 @@ This exercise has 9 tasks:
    - FlightWeatherWithAirportCode.csv
    - AirportCodeLocationClean.csv
    
-**Note**  that we will only be uploading two of the three files in the zip files.  Once extracted the FlightDelaysWithAirportCodes.csv is **NOT** uploaded.  We will show how to connect directly in another step**
+- **Note:** that we will only be uploading two of the three files in the zip files.  Once extracted the FlightDelaysWithAirportCodes.csv is **NOT** uploaded.  We will show how to connect directly in another step**
 
 4. Click **+ NEW** at the bottom, point to **Dataset** , and select **From Local File**.
 
