@@ -6,8 +6,7 @@ Synopsis: In this exercise, attendees will implement a classification experiment
 
 This exercise has 9 tasks:
 
-* [Task 1: Connect to the Lab VM](#task-1-connect-to-the-lab-vm)
-* [Task 2: Navigate to Machine Learning Studio](#task-2-navigate-to-machine-learning-studio)
+* [Task 1: Navigate to Machine Learning Studio](#task-1-navigate-to-machine-learning-studio)
 * [Task 3: Upload the Sample Datasets](#task-3-upload-the-sample-datasets)
 * [Task 4: Start a New Experiment](#task-4-start-a-new-experiment)
 * [Task 5: Prepare the Weather Data](#task-5-prepare-the-weather-data)
@@ -16,32 +15,10 @@ This exercise has 9 tasks:
 * [Task 8: Operationalize the Experiment](#task-8-operationalize-the-experiment)
 * [Task 9: Deploy Web Service and Note API Information](#task-9-deploy-web-service-and-note-api-information)
 
-## Get out of Jail Free
 
-If, for whatever reason, you cannot complete this lab whether due to time contraints or if you are not able to troubleshoot an issue, we have created a "get out of jail free" exercise. If you wish to use this exercise at any time, please proceed to [Appendix A](09 Appendix A - Alternative to Azure ML Exercise.md). After completing Appendix A, you can continue to [Exercise 2](02 Exercise 2 - Setup Azure Data Factory.md).
+## Task 1: Navigate to Machine Learning Studio
 
-## Task 1: Connect to the Lab VM
-
-1. From the left side of the Azure portal, click on **All resources**.
-2. In the **Filter items...** box, type in **lab**.
-3. Select your lab VM. Keep in mind the name of the virtual machine will begin with the "app name" you provided when setting up this workshop environment (in the prerequisite deployment).
-2. At the top of the blade for your VM, click on **Connect**.
-
-    ![Screenshot](images/connect_to_the_lab_vm_1.png)
-
-3. Download and open the RDP file.
-1. When the **Remote Desktop Connection** screen appears, check the **Don't ask me again...** box and click on **Connect** button.
-
-    ![Screenshot](images/ex02_connect_to_the_lab_vm_2.png)
-
-1. Log in with the following credentials:
-   - User name: **cortana**
-   - Password: **Password.1!!**
-
-## Task 2: Navigate to Machine Learning Studio
-
-1. In a browser, go to [https://studio.azureml.net](https://studio.azureml.net) and log in using the same account you used in the Azure portal to deploy the prerequisites for this workshop.
-2. Once you are signed in, ensure the workspace that was created as part of the prerequisites is selected from the top bar. **Make sure** you select the correct workspace; if you do not you might run into issues in subsequent steps.
+1. In a browser, go to [https://studio.azureml.net](https://studio.azureml.net) and log in a Microsoft ID.
 
     ![Screenshot](images/choose_ml_workspace.png)
 
