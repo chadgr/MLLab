@@ -60,10 +60,11 @@ This exercise has 8 tasks:
 4. In the search box above your tool box on the right type "Import data".  This should find the import data tool.
     ![Screenshot](images/Import.png)
 
-5. Drag and drop that on the main canvas.  Set the properties as shown.  The Public Blob URL is: 
+5. Drag and drop that on the main canvas.  Set the properties as shown.  The Public Blob URI is: 
 `
 https://intelligenceworkshop.blob.core.windows.net/workshopfiles/FlightDelaysWithAirportCodes.csv 
 `
+- **Note:** Be sure to check the 'URI File has a header row'
 
     ![Screenshot](images/importparams.png)
  
