@@ -69,6 +69,8 @@ https://intelligenceworkshop.blob.core.windows.net/workshopfiles/FlightDelaysWit
  
 6. Press the run button on the bottom of the screen.  This will connnect to the blob store and import the data.
     ![Screenshot](images/Run.png)
+    
+- **Note:** You will need to wait a few minutes for the process to pull in all the records.  
 
 6. Next, you will explore each of the datasets to understand what kind of cleanup (aka data munging) will be necessary.
 7. Hover over the output port of the **FlightDelaysWithAirportCodes** dataset.
