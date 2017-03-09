@@ -64,7 +64,7 @@ This exercise has 8 tasks:
 `
 https://intelligenceworkshop.blob.core.windows.net/workshopfiles/FlightDelaysWithAirportCodes.csv 
 `
-- **Note:** Be sure to check the 'URI File has a header row'
+- **Note:** Be sure to check the 'URI File has a header row' **AND** 'use cached results' boxes
 
     ![Screenshot](images/importparams.png)
  
