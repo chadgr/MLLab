@@ -14,8 +14,8 @@ Screenshots below
 5.	From your DSVM download and install latest MS R Client (3.3.3) from [here](http://aka.ms/rclient/download). If you need to learn more, details are in this [page](https://msdn.microsoft.com/en-us/microsoft-r/r-client-get-started#installrclient).
 6.	Open Visual Studio (VS) and sign-in to your account (could be trial account)
 7.	In VS, top menu, select R Tools->Data Science Settings, to use the R environment
-8.	Copy the R-HDInsight-LocalDirectory.zip file in your DSVM Desktop and unzip it there.
-9.	In VS, run the R code from labScript.R
+8.	Downlaod the [R-HDInsight-LocalDirectory.zip](https://github.com/chadgr/MLLab/blob/master/zipfiles/R-HDInsight-LocalDirectory.zip) file in your DSVM Desktop and unzip it there.
+9.	In VS, copy the following R code or download the [labScript.R](https://github.com/chadgr/MLLab/blob/master/zipfiles/labScript.R) and open it in VS.
 
 ```
 ###############################################################################
