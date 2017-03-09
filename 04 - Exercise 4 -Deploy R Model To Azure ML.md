@@ -1,3 +1,6 @@
+In this exercise we will create a new predictive model in a Jypter Notebook and publish the trained model to the Azure ML web services infrastructure for operationalize.  
+
+
 # Exercise 1: Setting up the Jypter Notebook
 
 The DSVM is also a fully configured Jupyter Notebooks Server (Disabled By default for security, you
