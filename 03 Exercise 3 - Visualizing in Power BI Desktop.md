@@ -19,7 +19,7 @@ Synopsis: In this exercise, attendees will construct a report in Power BI Deskto
     ![Screenshot](images/connect_to_the_hdinsight_spark_using_power_bi_desktop_1.png)
 
 1. Click **Continue** on the bottom right corner of the new window.
-2. Type or copy/paste the **URL** of your Azure HDInsight Spark cluster, which can be found from the address bar when connected to the Azure HDInsight Spark cluster in previous Exercise 5. It should look something like this example: [**https://jcholab199spark.azurehdinsight.net**](https://jcholab199spark.azurehdinsight.net).
+2. Connect to this Spark Cluster: `https://lmaspark.azurehdinsight.net`
 3. Click the **OK** button.
 4. When prompted, enter the cluster user name and password and then click **Connect**.
    - User name: **cortana**
