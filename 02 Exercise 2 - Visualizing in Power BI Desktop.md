@@ -1,4 +1,4 @@
-# Exercise 3: Visualizing in Power BI Desktop
+# Exercise 2: Visualizing in Power BI Desktop
 
 Duration: 20 mins
 
@@ -7,11 +7,10 @@ Synopsis: In this exercise, attendees will construct a report in Power BI Deskto
 * [Task 1: Connect to the HDInsight Spark Using Power BI Desktop](##task-2-connect-to-the-hdinsight-spark-using-power-bi-desktop)
 * [Task 2: Create Power BI Report](##task-3-create-power-bi-report)
 
-## Task 1: Connect to the HDInsight Spark Using Power BI Desktop
+# Task 1: Connect to the HDInsight Spark Using Power BI Desktop
 
-1. Downlaod the latest version of Power BI Desktop [HERE](https://powerbi.microsoft.com/en-us/desktop/). 
-<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank">example</a>
-Launch Power BI Desktop.
+1. Downlaod the latest version of Power BI Desktop [HERE](https://powerbi.microsoft.com/en-us/desktop/). Launch Power BI Desktop.
+
 2. Click on **Get Data** from the left side of the welcome window.
 
     ![Screenshot](images/connect_to_the_hdinsight_spark_using_power_bi_desktop_0.png)
@@ -33,7 +32,7 @@ Launch Power BI Desktop.
 
 2. Click on the **Load** button from the bottom right corner of the window. It will take couple of minutes to load the data into the Power BI Desktop client.
 
-## Task 2: Create Power BI Report
+# Task 2: Create Power BI Report
 
 1. Once the data load is completed, you will find the **flightdelaysummary** to the right side of the screen under the **Fields** area.
 
