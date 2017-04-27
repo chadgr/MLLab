@@ -1,5 +1,10 @@
 In this exercise we will create a new predictive model in a Jypter Notebook and publish the trained model to the Azure ML web services infrastructure for operationalize.  
 
+# Environment Prep: Creating a Data Science VM
+For this exercise we will be using an Azure Data Science VM.  This VM is available in the Azure marketplace and is pre-configured with many open source and MS data science tools.  You will need one deployed to run the rest of this lab.  If you already have one you can use that.  If not, follow the instructions on pages 2 – 10 in the DSVM Walkthrough Manual.
+
+Click here: [DSVM Workshop Walkthrough.pdf manual](https://github.com/chadgr/MLLab/blob/master/ResourceFiles/DSVM%20Workshop%20Walkthrough.pdf) to open the DSVM Manual.  **Please remember to only go through pages 2 - 10 to setup the VM only**
+
 
 # Exercise 1: Setting up the Jypter Notebook
 
