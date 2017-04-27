@@ -4,12 +4,12 @@ Duration: 20 mins
 
 Synopsis: In this exercise, attendees will construct a report in Power BI Desktop Client that uses the map visualization to illustrate the predicted delays, using the data originally scored using Machine Learning, but summarized in a table using Spark on HDInsight.
 
-* [Task 1: Connect to the HDInsight Spark Using Power BI Desktop](#task-2-connect-to-the-hdinsight-spark-using-power-bi-desktop)
-* [Task 2: Create Power BI Report](#task-3-create-power-bi-report)
+* [Task 1: Connect to the HDInsight Spark Using Power BI Desktop](##task-2-connect-to-the-hdinsight-spark-using-power-bi-desktop)
+* [Task 2: Create Power BI Report](##task-3-create-power-bi-report)
 
 ## Task 1: Connect to the HDInsight Spark Using Power BI Desktop
 
-1. Downlaod the latest version of Power BI Desktop HERE.  Launch Power BI Desktop.
+1. Downlaod the latest version of Power BI Desktop [HERE](https://powerbi.microsoft.com/en-us/desktop/).  Launch Power BI Desktop.
 2. Click on **Get Data** from the left side of the welcome window.
 
     ![Screenshot](images/connect_to_the_hdinsight_spark_using_power_bi_desktop_0.png)
