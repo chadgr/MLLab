@@ -10,7 +10,7 @@ Synopsis: In this exercise, attendees will construct a report in Power BI Deskto
 ## Task 1: Connect to the HDInsight Spark Using Power BI Desktop
 
 1. Downlaod the latest version of Power BI Desktop [HERE](https://powerbi.microsoft.com/en-us/desktop/). 
-<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank">example</a>
+<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_new">example</a>
 Launch Power BI Desktop.
 2. Click on **Get Data** from the left side of the welcome window.
 
