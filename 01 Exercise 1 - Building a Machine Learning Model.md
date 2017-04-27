@@ -130,13 +130,7 @@ https://intelligenceworkshop.blob.core.windows.net/workshopfiles/FlightDelaysWit
 
 ## Task 4: Prepare the Weather Data
 
-4. In the toolbar on the left, in the Search experiment items box, type the name of the dataset you created with flight delay data (FlightDelaysWithAirportCodes). You should see a component for it listed under **Saved Datasets** -> **My Datasets**.
 
-    ![Screenshot](images/start_a_new_experiment_2.png)
-
-5. Click and drag on the **FlightDelaysWithAirportCodes** to add it to the design surface.
-
-    ![Screenshot](images/start_a_new_experiment_3.png)
 1. To the right of the **FlightDelaysWithAirportCodes** dataset, add the **FlightWeatherWithAirportCode** dataset.
 
     ![Screenshot](images/prepare_the_weather_data_0.png)
